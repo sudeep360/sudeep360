@@ -1,4 +1,4 @@
--  Hi, I’m Sudeep Dhakal from Nepal who moved to Brisbane, Queensland, Australia.
+-  Hi, I’m Sudeep Dhakal from Nepal and moved to Brisbane, Queensland, Australia in 2022 .
 -  I’m interested in Artificial Intelligence.
 -  I’m currently learning python and data science.
 -  I have a bachelors degree in electronics and communication engineernig. 
